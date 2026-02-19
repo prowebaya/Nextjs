@@ -120,7 +120,7 @@ const UserCrud = () => {
             <thead>
               <tr>
                 <th>#</th>
-                <th>Name</th>
+                <th>Name lko up</th>
                 <th>Email</th>
                 <th>Address</th>
                 <th>Action</th>
