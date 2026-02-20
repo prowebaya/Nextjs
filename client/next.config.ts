@@ -24,7 +24,7 @@ export default nextConfig;
 import { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  output: "export",     // 👈 IMPORTANT
+  //output: "export",     // 👈 IMPORTANT
   images: {
     unoptimized: true, // 👈 static export ke liye
   },
